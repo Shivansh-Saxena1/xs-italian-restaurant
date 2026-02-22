@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[47257,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/f3e35d9a80465ef3.js"],"ClientPageRoot"]
-3:I[78299,["/_next/static/chunks/acb4253b3725d413.js","/_next/static/chunks/4d4d7aa530b2d6dc.js","/_next/static/chunks/de9b5492ef055375.js","/_next/static/chunks/9129ece52b8fc384.js"],"default"]
-6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/f3e35d9a80465ef3.js"],"OutletBoundary"]
+2:I[47257,["/xs-italian-restaurant/_next/static/chunks/ff1a16fafef87110.js","/xs-italian-restaurant/_next/static/chunks/f3e35d9a80465ef3.js"],"ClientPageRoot"]
+3:I[78299,["/xs-italian-restaurant/_next/static/chunks/acb4253b3725d413.js","/xs-italian-restaurant/_next/static/chunks/4d4d7aa530b2d6dc.js","/xs-italian-restaurant/_next/static/chunks/de9b5492ef055375.js","/xs-italian-restaurant/_next/static/chunks/9129ece52b8fc384.js"],"default"]
+6:I[97367,["/xs-italian-restaurant/_next/static/chunks/ff1a16fafef87110.js","/xs-italian-restaurant/_next/static/chunks/f3e35d9a80465ef3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"l2g1Rdbg7WzxPN1rwOtEl","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/9129ece52b8fc384.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"gG5Lnnc-VXQ4o0BpuB9Yl","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/xs-italian-restaurant/_next/static/chunks/9129ece52b8fc384.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:{}
 8:null
