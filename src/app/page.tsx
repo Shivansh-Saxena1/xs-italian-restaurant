@@ -68,7 +68,7 @@ export default function Home() {
           <div className="grid md:grid-cols-3 gap-8">
             <div className="group relative overflow-hidden rounded-xl bg-gray-100 aspect-[4/5] cursor-pointer">
               <Image
-                src="https://images.unsplash.com/photo-1621996311210-2a132bfbc128?q=80&w=2670&auto=format&fit=crop" 
+                src="https://safrescobaldistatic.blob.core.windows.net/media/2022/11/PIZZA-MARGHERITA.jpg" 
                 fill
                 alt="Margherita Pizza"
                 className="object-cover group-hover:scale-110 transition-transform duration-700"
