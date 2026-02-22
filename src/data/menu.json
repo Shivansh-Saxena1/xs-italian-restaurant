@@ -1,0 +1,139 @@
+{
+  "categories": [
+    {
+      "id": "antipasti",
+      "name": "Antipasti",
+      "items": [
+        {
+          "id": "a1",
+          "name": "Bruschetta al Pomodoro",
+          "description": "Toasted rustic bread topped with marinated cherry tomatoes, garlic, and fresh basil.",
+          "price": 12.0,
+          "isVegetarian": true
+        },
+        {
+          "id": "a2",
+          "name": "Calamari Fritti",
+          "description": "Crispy fried squid rings served with a spicy marinara dipping sauce and lemon.",
+          "price": 16.0,
+          "isVegetarian": false
+        },
+        {
+          "id": "a3",
+          "name": "Carpaccio di Manzo",
+          "description": "Thinly sliced raw beef tenderloin, arugula, shaved parmesan, capers, and truffle oil.",
+          "price": 18.0,
+          "isVegetarian": false
+        }
+      ]
+    },
+    {
+      "id": "primi",
+      "name": "Primi",
+      "items": [
+        {
+          "id": "p1",
+          "name": "Spaghetti Carbonara",
+          "description": "Classic Roman dish with guanciale, egg yolk, pecorino romano, and black pepper.",
+          "price": 22.0,
+          "isVegetarian": false
+        },
+        {
+          "id": "p2",
+          "name": "Pappardelle al Cinghiale",
+          "description": "Wide ribbon pasta with slow-braised wild boar ragù and aged parmesan.",
+          "price": 26.0,
+          "isVegetarian": false
+        },
+        {
+          "id": "p3",
+          "name": "Ravioli Ricotta e Spinaci",
+          "description": "Handmade pasta filled with ricotta and spinach, served in a sage butter sauce.",
+          "price": 20.0,
+          "isVegetarian": true
+        }
+      ]
+    },
+    {
+      "id": "secondi",
+      "name": "Secondi",
+      "items": [
+        {
+          "id": "s1",
+          "name": "Bistecca alla Fiorentina",
+          "description": "Grilled T-bone steak (for two) seasoned simply with olive oil and rosemary.",
+          "price": 85.0,
+          "isVegetarian": false
+        },
+        {
+          "id": "s2",
+          "name": "Branzino al Forno",
+          "description": "Whole roasted Mediterranean seabass with lemon, herbs, and fingerling potatoes.",
+          "price": 34.0,
+          "isVegetarian": false
+        },
+        {
+          "id": "s3",
+          "name": "Pollo al Limone",
+          "description": "Pan-seared chicken breast in a white wine and lemon-caper sauce.",
+          "price": 24.0,
+          "isVegetarian": false
+        }
+      ]
+    },
+    {
+      "id": "dolci",
+      "name": "Dolci",
+      "items": [
+        {
+          "id": "d1",
+          "name": "Tiramisù Classico",
+          "description": "Espresso-soaked ladyfingers layered with mascarpone cream.",
+          "price": 10.0,
+          "isVegetarian": true
+        },
+        {
+          "id": "d2",
+          "name": "Panna Cotta alla Vaniglia",
+          "description": "Vanilla bean panna cotta with an overriding mixed berry compote.",
+          "price": 9.0,
+          "isVegetarian": true
+        },
+        {
+          "id": "d3",
+          "name": "Cannoli Siciliani",
+          "description": "Crispy pastry shells filled with sweet ricotta and chocolate chips.",
+          "price": 8.0,
+          "isVegetarian": true
+        }
+      ]
+    },
+    {
+      "id": "bevande",
+      "name": "Bevande",
+      "items": [
+        {
+          "id": "b1",
+          "name": "Aperol Spritz",
+          "description": "Aperol, Prosecco, and a splash of soda water, garnished with orange.",
+          "price": 12.0,
+          "isVegetarian": true
+        },
+        {
+          "id": "b2",
+          "name": "Negroni",
+          "description": "Equal parts gin, Campari, and sweet vermouth.",
+          "price": 14.0,
+          "isVegetarian": true
+        },
+        {
+          "id": "b3",
+          "name": "Acqua Panna / San Pellegrino",
+          "description": "Still or sparkling Italian mineral water (1L).",
+          "price": 6.0,
+          "isVegetarian": true
+        }
+      ]
+    }
+  ]
+}
